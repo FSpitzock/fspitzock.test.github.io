@@ -2,7 +2,7 @@ h1 {
   color: blue;
 }
 
-p {
+.text {
   background-color: orange;
   text: bold;
 }
