@@ -3,5 +3,6 @@ h1 {
 }
 
 p {
-  background-color: lightorange;
+  background-color: orange;
+  text: bold;
 }
